@@ -1,0 +1,8 @@
+.header{
+    background-color: rgb(27, 48, 93);
+    color:white;
+   padding: 15px;
+}
+.header p{
+    float:right
+}
